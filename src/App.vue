@@ -1,11 +1,19 @@
 <template>
+  <v-app>
+    <!-- Sidebar -->
+    <v-main>
+
+    </v-main>
+  </v-app>
+</template>
+
+<!-- <template>
+  Con Rutas
   <div>
     <nav>
-      <!-- links -->
       <RouterLink to="/">Home</RouterLink>
       <RouterLink to="/about">About</RouterLink>
     </nav>
   </div>
-  <!-- vista de los componentes -->
   <RouterView />
-</template>
+</template> -->
